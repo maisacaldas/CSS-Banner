@@ -1,0 +1,26 @@
+.banner{
+  background: linear-gradient(#aa52c5, #37afcd);
+  width: auto;
+  max-width: 500px;
+  margin: 100px auto;
+border-radius: 10px;
+padding: 20px;
+
+p{
+  color: black;
+  font-size: 13px;
+  margin: 25px 0;
+}
+
+.titulo{
+fort-size: 35px;
+}
+
+.bnt-primary{
+padding: 7px 20px;
+border: none;
+border-radius: 5px;
+}
+
+
+}
